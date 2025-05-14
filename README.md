@@ -27,11 +27,7 @@ Database (e.g., SQLite): Store and manage data efficiently.
 Getting Started:
 Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/Ravindragouda/online-food-ordering-django.git
-cd online-food-ordering-django
-Install Dependencies:
+
 
 bash
 Copy code
